@@ -171,3 +171,6 @@ al. 2021](https://www.biorxiv.org/content/10.1101/2021.08.19.456728v1.abstract)
 [Psychotic-like Experiences and Polygenic Liability in the Adolescent
 Brain Cognitive Development Study, Karcher et
 al. 2022](https://www.sciencedirect.com/science/article/pii/S2451902221001919?via%3Dihub)
+
+[Microstructural development from 9 to 14 years: Evidence from the ABCD Study
+, Palmer et al. 2022](https://www.sciencedirect.com/science/article/pii/S187892932100133X#sec0010)
